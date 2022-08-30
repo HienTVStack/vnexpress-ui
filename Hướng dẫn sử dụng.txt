@@ -1,0 +1,13 @@
+HƯỚNG DẪN SỬ DỤNG
+
++ Mở Terminal trong thư mục
++ Yêu cầu cài đặt node
++ Soạn npm init
++ SOạn npm run start
+
+Mở trình duyện với url: http://localhost:3000/
+
+Cảm ơn bạn ghé thăm.
+
+Trân trọng./.
+Trần Văn Hiền
